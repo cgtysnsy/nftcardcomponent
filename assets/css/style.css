@@ -127,3 +127,14 @@ p {
 .bold {
   color: hsl(0, 0%, 100%);
 }
+
+.attribution {
+  margin-top: 10px;
+  font-size: 12px;
+  width: 360px;
+  text-align: center;
+  color: #e4667d;
+}
+a {
+  color: #647c96;
+}
